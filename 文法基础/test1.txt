@@ -1,0 +1,18 @@
+5
+Z A A' B B'
+
+3
+a c d
+
+8
+Z -> A c B
+Z -> B d
+A -> c A'
+A' -> a B A'
+A' -> ε
+B -> a B'
+B' -> A
+B' -> ε
+
+Z
+
